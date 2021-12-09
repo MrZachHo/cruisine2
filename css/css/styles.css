@@ -24,6 +24,9 @@ h3{
 p{
   line-height: 2;
 }
+ul{
+  list-style-type:none;
+}
 hr{
     border: dotted #FEF5ED 6px;
     border-bottom: none;
