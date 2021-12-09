@@ -1,0 +1,122 @@
+body{
+  color:#333;
+  margin:0px;
+  text-align:center;
+}
+h1{
+  margin-top: 50px auto 0 auto;
+  color: #99A799;
+  font-size:60px;
+  margin: 80px auto 30px auto;
+  font-family: 'Courier New', Courier, monospace;
+  <!-- line-height:2; (to keep the distance) -->
+}
+h2{
+    color: #ADC2A9;
+    font-size:1.5rem;
+    font-family:monospace;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color: #ADC2A9;
+}
+p{
+  line-height: 2;
+}
+hr{
+    border: dotted #FEF5ED 6px;
+    border-bottom: none;
+    width: 2%;
+    margin: 100px auto;
+}
+a {
+    color:#333;
+    font-family: 'Nunito', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color:pink;
+}
+.top-container{
+  background-color: #FEF5ED;
+  position:relative;
+  padding-top: 100px;
+}
+.middle-container{
+   margin:100px 0;
+  
+}
+.bottom-container{
+background-color:#FEF5ED;
+padding:50px 0 50px;
+margin-bottom: none;
+}
+.fourgreat-row{
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+}
+.mus{
+    text-decoration: underline;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.cuisineintro{
+    width: 40%;
+    margin:auto;
+}
+.contact-message{
+    width: 27%;
+    margin: 30px auto 80px;
+}
+.moderneight{
+    position:relative;
+    top: 20px;
+}
+.copyright{
+    color:#333;
+    font-size:0.75rem;
+    padding: 20px 0;
+}
+.top-mint{
+    position:absolute;
+    right: 300px;
+    top:70px;
+}
+.bottom-mint{
+    position:absolute;
+    left:250px;
+    bottom:500px;
+}
+.sichuan{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.lu{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+.cantonese{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.huaiyang{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+}
+.restaurant{
+   
+}
+.restaurantsname{
+    width:25%;
+    line-height: 2;
+    margin:auto;
+}
